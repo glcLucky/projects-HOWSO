@@ -12,3 +12,4 @@ __init__.py
 
 
 from . genetic_algorithm import *
+from . genetic import *
